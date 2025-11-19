@@ -24,6 +24,7 @@ export default function Dashboard() {
           <li>Customers</li>
           <li>Payments</li>
           <li>Reports</li>
+          <li>Settings</li>
         </ul>
       </aside>
       <main className="content">
